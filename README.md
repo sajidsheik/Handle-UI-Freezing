@@ -7,3 +7,5 @@ Solved the problem using the processing of the set/batch of data at a time using
 the data
 
 # Redis Optimization using the HashSetString instead of SetString
+
+# Observability of the entire life cycle of request and response in an application using customMiddleware and Scoped Object
